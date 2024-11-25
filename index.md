@@ -18,4 +18,7 @@ Line 3
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
+#### To do list
+- [x] Turn on GitHub Pages  
+- [ ] Outline my portfolio  
+- [ ] Introduce myself to the world  
