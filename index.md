@@ -4,4 +4,18 @@
 
 ![This is the given image for the exercice](https://myoctocat.com/assets/images/base-octocat.svg)  
 
-bottom page
+
+## Coding code example
+
+Look in this `This file` for :  
+```
+Line 1
+Line 2
+Line 3
+```
+
+### For javascript example :  
+``` javascript
+var myVar = "Hello, world!";
+```
+
